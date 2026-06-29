@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-# flutter_navigation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 📱 Flutter Learning Journey - Day 1
 
 > A beginner-friendly Flutter project that covers the fundamental concepts of Flutter development, including widgets, layouts, and navigation.
@@ -251,6 +232,7 @@ GitHub: https://github.com/deFare00
 
 ⭐ If you found this repository helpful, feel free to give it a **star** and follow my learning journey!
 
+
 ---
 
 # Documentation
@@ -260,4 +242,3 @@ GitHub: https://github.com/deFare00
 <img width="659" height="850" alt="image" src="https://github.com/user-attachments/assets/922b3987-bf59-4929-ad68-937f4432a9bb" />
 <img width="663" height="850" alt="image" src="https://github.com/user-attachments/assets/61473f06-c281-495f-8791-d6ee6816029f" />
 <img width="660" height="852" alt="image" src="https://github.com/user-attachments/assets/1747afed-bcd0-4705-b9be-4acf15f4a687" />
->>>>>>> 15737f0a0d5d0a419d45a11dbb76208b94e744eb
